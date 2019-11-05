@@ -12,7 +12,7 @@
 
 var fs = require('fs');
 var path = require('path');
-var express = require('express');
+var express = require('express'); //URL per le API REST
 var bodyParser = require('body-parser');
 var app = express();
 
